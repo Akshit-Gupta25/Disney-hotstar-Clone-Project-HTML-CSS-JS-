@@ -5,6 +5,10 @@ A visually rich and fully responsive front-end clone of the Disney+ streaming pl
 
 ---
 
+## NOTE !! 
+- Add Loose images to The main Image folder , And Don't add it into sub-folder 
+
+
 ## ✨ Features
 
 - 🎞 **Dynamic Carousel Slider** – Auto-generates movie slides with title and description
