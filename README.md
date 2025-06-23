@@ -52,11 +52,9 @@ A visually rich and fully responsive front-end clone of the Disney+ streaming pl
 
 > **Homepage UI with Movie Carousel & Dropdown Menu**
 
-![image](https://github.com/user-attachments/assets/d66e6b56-02af-42bd-950a-f70cdc22122c)
-
-![image](https://github.com/user-attachments/assets/948fab95-cc20-4a97-9ad2-d266190b576a)
-
-![image](https://github.com/user-attachments/assets/84fbd378-3761-4372-bd4e-7da9644c7e1e)
+![image](https://github.com/user-attachments/assets/c3d8c93d-ddc3-48de-abf0-0b053ee61716)
+![image](https://github.com/user-attachments/assets/f25e893b-82d8-4c0a-8968-300b27db86fc)
+![image](https://github.com/user-attachments/assets/eaa3cbd5-a5bb-4107-aa98-36253441bbdb)
 
 
 
